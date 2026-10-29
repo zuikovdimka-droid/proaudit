@@ -1,0 +1,236 @@
+<?php
+/**
+ * The template for displaying the footer.
+ *
+ * Contains the closing of the id=main div and all content
+ * after. Calls sidebar-footer.php for bottom widgets.
+ *
+ * @package WordPress
+ * @subpackage Twenty_Ten
+ * @since Twenty Ten 1.0
+ */
+?>
+	</div><!-- #main -->
+    <hr style="background-color: #5b7a53; height: 3px; width: 95.7%"/>
+
+<p class="first_title" style="text-align: center; margin-top: 33px;">Наши специалисты</p>
+
+
+
+
+
+
+
+<div class="wrapbx">
+<div class="bx-wrapper" style="max-width: 790px;"><div class="bx-viewport" aria-live="polite" style="width: 100%; overflow: hidden; position: relative; height: 342px;"><ul class="bxslider" style="width: 10215%; position: relative; transition-duration: 0.5s; transform: translate3d(-960px, 0px, 0px);"><li style="float: left; list-style: none; position: relative; width: 150px; margin-right: 10px;" class="bx-clone" aria-hidden="true">
+<div><img src="/img/spec6.jpg"></div>
+<p>Сарыглар Айзаана Олеговна</p></li><li style="float: left; list-style: none; position: relative; width: 150px; margin-right: 10px;" class="bx-clone" aria-hidden="true">
+<div><img src="/img/spec7.jpg"></div>
+<p>Сокольников Юрий Юрьевич</p></li><li style="float: left; list-style: none; position: relative; width: 150px; margin-right: 10px;" class="bx-clone" aria-hidden="true">
+<div><img src="/img/spec8.jpg"></div>
+<p>Гамгия Ольга Валерьевна</p></li><li style="float: left; list-style: none; position: relative; width: 150px; margin-right: 10px;" class="bx-clone" aria-hidden="true">
+<div><img src="/img/spec9.jpg"></div>
+<p>Хотина Ольга Станиславовна</p></li><li style="float: left; list-style: none; position: relative; width: 150px; margin-right: 10px;" class="bx-clone" aria-hidden="true">
+<div><img src="/img/spec10.jpg"></div>
+<p>Бакина Светлана Ивановна</p></li>
+<li style="float: left; list-style: none; position: relative; width: 150px; margin-right: 10px;" aria-hidden="true">
+<div><img src="/img/spec1.jpg"></div>
+<p>Кайгородова Ирина Николаевна</p></li>
+<li style="float: left; list-style: none; position: relative; width: 150px; margin-right: 10px;" aria-hidden="false">
+<div><img src="/img/spec2.jpg"></div>
+<p>Смирнова Марина Николаевна</p></li>
+<li style="float: left; list-style: none; position: relative; width: 150px; margin-right: 10px;" aria-hidden="false">
+<div><img src="/img/spec3.jpg"></div>
+<p>Костикова Татьяна Николаевна</p></li>
+<li style="float: left; list-style: none; position: relative; width: 150px; margin-right: 10px;" aria-hidden="false">
+<div><img src="/img/spec4.jpeg"></div>
+<p>Андреева Валентина Сергеевна</p></li>
+<li style="float: left; list-style: none; position: relative; width: 150px; margin-right: 10px;" aria-hidden="false">
+<div><img src="/img/spec5.jpg"></div>
+<p>Ермакова Ленара Фаритовна</p></li>
+<li style="float: left; list-style: none; position: relative; width: 150px; margin-right: 10px;" aria-hidden="false">
+<div><img src="/img/spec6.jpg"></div>
+<p>Сарыглар Айзаана Олеговна</p></li>
+<li style="float: left; list-style: none; position: relative; width: 150px; margin-right: 10px;" aria-hidden="true">
+<div><img src="/img/spec7.jpg"></div>
+<p>Сокольников Юрий Юрьевич</p></li>
+<li style="float: left; list-style: none; position: relative; width: 150px; margin-right: 10px;" aria-hidden="true">
+<div><img src="/img/spec8.jpg"></div>
+<p>Гамгия Ольга Валерьевна</p></li>
+<li style="float: left; list-style: none; position: relative; width: 150px; margin-right: 10px;" aria-hidden="true">
+<div><img src="/img/spec9.jpg"></div>
+<p>Хотина Ольга Станиславовна</p></li>
+<li style="float: left; list-style: none; position: relative; width: 150px; margin-right: 10px;" aria-hidden="true">
+<div><img src="/img/spec10.jpg"></div>
+<p>Бакина Светлана Ивановна</p></li>
+<li style="float: left; list-style: none; position: relative; width: 150px; margin-right: 10px;" class="bx-clone" aria-hidden="true">
+<div><img src="/img/spec1.jpg"></div>
+<p>Кайгородова Ирина Николаевна</p></li><li style="float: left; list-style: none; position: relative; width: 150px; margin-right: 10px;" class="bx-clone" aria-hidden="true">
+<div><img src="/img/spec2.jpg"></div>
+<p>Смирнова Марина Николаевна</p></li><li style="float: left; list-style: none; position: relative; width: 150px; margin-right: 10px;" class="bx-clone" aria-hidden="true">
+<div><img src="/img/spec3.jpg"></div>
+<p>Костикова Татьяна Николаевна</p></li><li style="float: left; list-style: none; position: relative; width: 150px; margin-right: 10px;" class="bx-clone" aria-hidden="true">
+<div><img src="/img/spec4.jpeg"></div>
+<p>Андреева Валентина Сергеевна</p></li><li style="float: left; list-style: none; position: relative; width: 150px; margin-right: 10px;" class="bx-clone" aria-hidden="true">
+<div><img src="/img/spec5.jpg"></div>
+<p>Ермакова Ленара Фаритовна</p></li></ul></div><div class="bx-controls bx-has-controls-direction"><div class="bx-controls-direction"><a class="bx-prev" href="">Prev</a><a class="bx-next" href="">Next</a></div></div></div>
+</div>
+
+
+
+
+<div class="carousel_box">
+    <div class="flex-col with_margin">
+	<div class="flex-item-2">
+                    <span class="like_title">Лицензии</span>
+                    <span class="like_link"><a href="/litsenzii/">Все лицензии</a></span>
+                </div>
+
+          
+            <div class="main-carousel flickity-enabled is-draggable" tabindex="0">
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+				  
+				  
+				  
+				  
+				  
+				  
+				  
+				  
+				  
+				  
+				 
+				  
+            <div class="flickity-viewport" style="height: 210px; touch-action: pan-y;"><div class="flickity-slider" style="left: 0px; transform: translateX(0%);"><div class="carousel-cell is-selected" style="position: absolute; left: 0%;"><a href="/wp-content/uploads/2012/12/l_01.jpg" data-fancybox="licenzii"><img src="/wp-content/uploads/2012/12/l_01.jpg"></a></div><div class="carousel-cell" style="position: absolute; left: 33.53%;"><a href="/wp-content/uploads/2012/12/l_02.jpg" data-fancybox="licenzii"><img src="/wp-content/uploads/2012/12/l_02.jpg"></a></div><div class="carousel-cell" style="position: absolute; left: 67.07%;"><a href="/wp-content/uploads/2012/12/l_03.jpg" data-fancybox="licenzii"><img src="/wp-content/uploads/2012/12/l_03.jpg"></a></div><div class="carousel-cell" style="position: absolute; left: 100.6%;"><a href="/wp-content/uploads/2012/12/l_04.jpg" data-fancybox="licenzii"><img src="/wp-content/uploads/2012/12/l_04.jpg"></a></div><div class="carousel-cell" style="position: absolute; left: 134.13%;"><a href="/wp-content/uploads/2012/12/l_05.jpg" data-fancybox="licenzii"><img src="/wp-content/uploads/2012/12/l_05.jpg"></a></div><div class="carousel-cell" style="position: absolute; left: 167.66%;"><a href="/wp-content/uploads/2012/12/l_06.jpg" data-fancybox="licenzii"><img src="/wp-content/uploads/2012/12/l_06.jpg"></a></div><div class="carousel-cell" style="position: absolute; left: 201.2%;"><a href="/wp-content/uploads/2012/12/l_07.jpg" data-fancybox="licenzii"><img src="/wp-content/uploads/2012/12/l_07.jpg"></a></div><div class="carousel-cell" style="position: absolute; left: 234.73%;"><a href="/wp-content/uploads/2012/12/l_08.jpg" data-fancybox="licenzii"><img src="/wp-content/uploads/2012/12/l_08.jpg"></a></div><div class="carousel-cell" style="position: absolute; left: 268.26%;"><a href="/wp-content/uploads/2012/12/l_09.jpg" data-fancybox="licenzii"><img src="/wp-content/uploads/2012/12/l_09.jpg"></a></div><div class="carousel-cell" style="position: absolute; left: 301.79%;"><a href="/wp-content/uploads/2012/12/l_10.jpg" data-fancybox="licenzii"><img src="/wp-content/uploads/2012/12/l_10.jpg"></a></div><div class="carousel-cell" style="position: absolute; left: 335.33%;"><a href="/wp-content/uploads/2012/12/l_21.jpg" data-fancybox="licenzii"><img src="/wp-content/uploads/2012/12/l_21.jpg"></a></div><div class="carousel-cell" style="position: absolute; left: 368.86%;"><a href="/wp-content/uploads/2012/12/l_22.jpg" data-fancybox="licenzii"><img src="/wp-content/uploads/2012/12/l_22.jpg"></a></div><div class="carousel-cell" style="position: absolute; left: 402.39%;"><a href="/wp-content/uploads/2018/10/Screenshot_1.png" data-fancybox="licenzii"><img src="/wp-content/uploads/2018/10/Screenshot_1.png"></a></div><div class="carousel-cell" style="position: absolute; left: 435.92%;"><a href="/wp-content/uploads/2018/10/Screenshot_2.png" data-fancybox="licenzii"><img src="/wp-content/uploads/2018/10/Screenshot_2.png"></a></div><div class="carousel-cell" style="position: absolute; left: 469.46%;"><a href="/wp-content/uploads/2018/10/Screenshot_3.png" data-fancybox="licenzii"><img src="/wp-content/uploads/2018/10/Screenshot_3.png"></a></div><div class="carousel-cell" style="position: absolute; left: 502.99%;"><a href="/wp-content/uploads/2018/10/Screenshot_4.png" data-fancybox="licenzii"><img src="/wp-content/uploads/2018/10/Screenshot_4.png"></a></div><div class="carousel-cell" style="position: absolute; left: 536.52%;"><a href="/wp-content/uploads/2018/10/Screenshot_5.png" data-fancybox="licenzii"><img src="/wp-content/uploads/2018/10/Screenshot_5.png"></a></div><div class="carousel-cell" style="position: absolute; left: 570.06%;"><a href="/wp-content/uploads/2018/10/Screenshot_6.png" data-fancybox="licenzii"><img src="/wp-content/uploads/2018/10/Screenshot_6.png"></a></div><div class="carousel-cell" style="position: absolute; left: 603.59%;"><a href="/wp-content/uploads/2018/10/Screenshot_7.png" data-fancybox="licenzii"><img src="/wp-content/uploads/2018/10/Screenshot_7.png"></a></div><div class="carousel-cell" style="position: absolute; left: 637.12%;"><a href="/wp-content/uploads/2018/10/Screenshot_8.png" data-fancybox="licenzii"><img src="/wp-content/uploads/2018/10/Screenshot_8.png"></a></div><div class="carousel-cell" style="position: absolute; left: 670.65%;"><a href="/wp-content/uploads/2018/10/Screenshot_9.png" data-fancybox="licenzii"><img src="/wp-content/uploads/2018/10/Screenshot_9.png"></a></div></div></div><button class="flickity-prev-next-button previous" type="button" aria-label="previous" disabled=""><svg viewBox="0 0 100 100"><path d="M 40,50 L 60,100 L 65,90 L 50,50  L 65,10 L 60,0 Z" class="arrow"></path></svg></button><button class="flickity-prev-next-button next" type="button" aria-label="next"><svg viewBox="0 0 100 100"><path d="M 40,50 L 60,100 L 65,90 L 50,50  L 65,10 L 60,0 Z" class="arrow" transform="translate(100, 100) rotate(180) "></path></svg></button><ol class="flickity-page-dots"><li class="dot is-selected"></li><li class="dot"></li><li class="dot"></li><li class="dot"></li><li class="dot"></li><li class="dot"></li><li class="dot"></li><li class="dot"></li><li class="dot"></li><li class="dot"></li><li class="dot"></li><li class="dot"></li><li class="dot"></li><li class="dot"></li><li class="dot"></li><li class="dot"></li><li class="dot"></li><li class="dot"></li><li class="dot"></li><li class="dot"></li><li class="dot"></li></ol></div>
+        </div>
+        
+
+    <div class="flex-col with_margin">
+	<div class="flex-item-2">
+                    <span class="like_title">Отзывы клиентов</span>
+                    <span class="like_link"><a href="/litsenzii/">Все отзывы</a></span>
+                </div>
+            <div class="main-carousel flickity-enabled is-draggable" tabindex="0">
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+            <div class="flickity-viewport" style="height: 210px; touch-action: pan-y;"><div class="flickity-slider" style="left: 0px; transform: translateX(0%);"><div class="carousel-cell is-selected" style="position: absolute; left: 0%;"><a href="/wp-content/uploads/2012/12/l_11.jpg" data-fancybox="otzyvy"><img src="/wp-content/uploads/2012/12/l_11.jpg"></a></div><div class="carousel-cell" style="position: absolute; left: 33.53%;"><a href="/wp-content/uploads/2012/12/l_12.jpg" data-fancybox="otzyvy"><img src="/wp-content/uploads/2012/12/l_12.jpg"></a></div><div class="carousel-cell" style="position: absolute; left: 67.07%;"><a href="/wp-content/uploads/2012/12/l_13.jpg" data-fancybox="otzyvy"><img src="/wp-content/uploads/2012/12/l_13.jpg"></a></div><div class="carousel-cell" style="position: absolute; left: 100.6%;"><a href="/wp-content/uploads/2012/12/l_14.jpg" data-fancybox="otzyvy"><img src="/wp-content/uploads/2012/12/l_14.jpg"></a></div><div class="carousel-cell" style="position: absolute; left: 134.13%;"><a href="/wp-content/uploads/2012/12/l_15.jpg" data-fancybox="otzyvy"><img src="/wp-content/uploads/2012/12/l_15.jpg"></a></div><div class="carousel-cell" style="position: absolute; left: 167.66%;"><a href="/wp-content/uploads/2012/12/l_16.jpg" data-fancybox="otzyvy"><img src="/wp-content/uploads/2012/12/l_16.jpg"></a></div><div class="carousel-cell" style="position: absolute; left: 201.2%;"><a href="/wp-content/uploads/2012/12/l_17.jpg" data-fancybox="otzyvy"><img src="/wp-content/uploads/2012/12/l_17.jpg"></a></div><div class="carousel-cell" style="position: absolute; left: 234.73%;"><a href="/wp-content/uploads/2012/12/l_18.jpg" data-fancybox="otzyvy"><img src="/wp-content/uploads/2012/12/l_18.jpg"></a></div><div class="carousel-cell" style="position: absolute; left: 268.26%;"><a href="/wp-content/uploads/2012/12/l_19.jpg" data-fancybox="otzyvy"><img src="/wp-content/uploads/2012/12/l_19.jpg"></a></div></div></div><button class="flickity-prev-next-button previous" type="button" aria-label="previous" disabled=""><svg viewBox="0 0 100 100"><path d="M 40,50 L 60,100 L 65,90 L 50,50  L 65,10 L 60,0 Z" class="arrow"></path></svg></button><button class="flickity-prev-next-button next" type="button" aria-label="next"><svg viewBox="0 0 100 100"><path d="M 40,50 L 60,100 L 65,90 L 50,50  L 65,10 L 60,0 Z" class="arrow" transform="translate(100, 100) rotate(180) "></path></svg></button><ol class="flickity-page-dots"><li class="dot is-selected"></li><li class="dot"></li><li class="dot"></li><li class="dot"></li><li class="dot"></li><li class="dot"></li><li class="dot"></li><li class="dot"></li><li class="dot"></li></ol></div>
+        </div>
+
+</div>
+
+
+
+
+
+<hr style="background-color: #5b7a53; height: 3px; width: 95.7%"/>
+<div class="contact_block">
+    <p class="first_title">Остались вопросы? Нужна консультация специалиста?</p>
+    <p class="second_title">Оставьте заявку, и мы свяжемся с Вами в ближайшее время и ответим на все интересующие Вас вопросы</p>
+<div class="wrap_call"></div>
+</div>
+<hr style="background-color: #5b7a53; height: 4px; width: 95.7%; margin-bottom: 0px"/>
+<!-- Этот блок кода нужно вставить в ту часть страницы, где вы хотите разместить карту (начало) -->
+<div style="margin-left: 20px; margin-right: 20px"><div id="ymaps-map-id_135771083064023693615" style="width: 100%; height: 350px;"></div></div>
+<script type="text/javascript">function fid_135771083064023693615(ymaps) {var map = new ymaps.Map("ymaps-map-id_135771083064023693615", {center: [37.67560349999998, 55.70281442438674], zoom: 16, type: "yandex#map"});map.controls.add("zoomControl").add("mapTools").add(new ymaps.control.TypeSelector(["yandex#map", "yandex#satellite", "yandex#hybrid", "yandex#publicMap"]));map.geoObjects.add(new ymaps.Placemark([37.675604, 55.702099], {balloonContent: 'Аудиторская фирма "ПроАудит"'}, {preset: "twirl#greenDotIcon"}));};</script>
+<script type="text/javascript" src="https://api-maps.yandex.ru/2.0-stable/?lang=ru-RU&amp;coordorder=longlat&amp;load=package.full&amp;wizard=constructor&amp;onload=fid_135771083064023693615"></script>
+<!-- Этот блок кода нужно вставить в ту часть страницы, где вы хотите разместить карту (конец) -->
+<div id="footer_flex" role="contentinfo">
+
+
+<? /* php
+    A sidebar in the footer? Yep. You can can customize
+     * your footer with four columns of widgets.
+     
+    get_sidebar( 'footer' );
+*/?>
+   
+        <div id="site-info" class="firstDiv23122019">
+            <div class="justDiv"><p><a href="/" title="ПроАудит" rel="home">ПроАудит </a></p>
+            <p style="color: black"> ул. Трофимова, д. 22, к. 1</p></div>
+           <div> 
+			<p ><a style="color: #666;" href="tel:+84955175409">8 (495) 517-54-09</a></<script>
+			<p ><a style="color: #666;" href="tel:+84956794870">8 (495) 679-48-70</a></p></div>
+            <div class="mainDiv23122019">
+            <p><a href="/o-kompanii-2/">О компании</a></p>
+            <p><a href="/uslugi/">Услуги аудита</a></p>
+            <p><a href="/stoimost/">Стоимость</a></p>
+            <p><a href="/litsenzii/">Лицензии</a></p>
+            <p><a href="/otzyivyi/">Отзывы</a></p>
+            <p><a href="/aktsii/">Акции</a></p>
+            <p><a href="/kontaktyi/">Контакты</a></p>
+            </div>
+        </div<p><!-- #site-info -->
+
+        <!-- <div id="footer_nav" role="navigation">
+                <?php wp_nav_menu( array( 'container_class' => 'menu-footer', 'theme_location' => 'bottom_menu' ) ); ?>
+                
+         </div> -->
+
+ </div><!-- #footer -->
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter44898088 = new Ya.Metrika({
+                    id:44898088,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/44898088" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+		
+
+
+</div><!-- #wrapper -->
+
+<?php
+	/* Always have wp_footer() just before the closing </body>
+	 * tag of your theme, or you will break many plugins, which
+	 * generally use this hook to reference JavaScript files.
+	 */
+
+	wp_footer();
+?>
+<!-- BEGIN JIVOSITE CODE {literal} -->
+<script type='text/javascript'>
+(function(){ var widget_id = 'jN1co5x1Xw';var d=document;var w=window;function l(){
+var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = '//code.jivosite.com/script/widget/'+widget_id; var ss = document.getElementsByTagName('script')[0]; ss.parentNode.insertBefore(s, ss);}if(d.readyState=='complete'){l();}else{if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}}})();</script>
+<!-- {/literal} END JIVOSITE CODE -->
+</body>
+</html>
